@@ -16,27 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: a97e7cd7ade610b4eace691b63ad19e4
-  m_SerializeEntries:
-  - m_GUID: 4d954c576e85d424caa012553c402518
-    m_Address: Screen/MainMenu
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ff7ca07ab59464d4c9494b81af4232ef
-    m_Address: Screen/InGameMenu
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3757ffdb7390fb14ea9d6d53b4fe5c6d
-    m_Address: Screen/PuzzleInformation
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9bc01f8f0ebb1c94587f707c2525d18c
-    m_Address: Screen/FoldingThePuzzle
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d0036e2203b665242a571c2d7e3cdb47, type: 2}
   m_SchemaSet:
